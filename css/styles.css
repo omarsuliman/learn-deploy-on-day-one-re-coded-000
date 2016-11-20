@@ -137,6 +137,14 @@ a:visited {
   background-image: url("../assets/img/joe-burgess.jpeg");
 }
 
+#omar-suliman-card {
+ background-image: url("../assets/img/omar-suliman-card.png");
+}
+
+#omar-suliman-cover {
+ background-image: url("../assets/img/omar-suliman-cover.jpg");
+}
+
 #joe-burgess-cover {
   background-image: url("../assets/img/joe-burgess-cover.png");
 }
